@@ -1,0 +1,20 @@
+{
+  "name": "dev-skills-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisackov/dev-skills-platforms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sisackov/dev-skills-platforms/issues"
+  },
+  "homepage": "https://github.com/sisackov/dev-skills-platforms#readme"
+}
